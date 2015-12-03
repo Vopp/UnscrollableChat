@@ -1,8 +1,6 @@
 # UnscrollableChat
 A simple and useless Chat
 
-This was a Java assignment for a "Design patterns"-course at Uni. The point was not to make a nice usable Chat app, but to create a program where there exists no strong connections between classes. Focus was on OO-principles but I also wanted to create a program where each part was interchangable with a new one without disrupting the flow (exceptions, messages). It makes use of the Observer and Strategy patterns.
+This is a Java assignment for a course about design patterns at University. The point was not to make a nice usable Chat app, but to create a program where there are no strong connections between classes. Focus was on OO-principles and abstraction but I also wanted to create a program where every single part is interchangable with a new one without disrupting the flow (exceptions, messages). The structure makes use of the Observer and Strategy patterns. I realise my code might be a bit overkill for what the program is, but I wanted to practice the mindset of writing code that allows for any class to be updated with a new class in the future.
 
-This is my first attempt at modularity, and it has not been graded yet. Any thoughts or suggestions are welcome =).
-
-(Just extract the Jar-file to get all class/.java files)
+However, it might not be so greatly modular as I hope and think it to be, as it hasn't been graded or commented yet. Any thoughts or suggestions on that matter are very welcome =).
